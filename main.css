@@ -1,0 +1,10 @@
+
+.mdl-layout__header-row.titlebar{
+position: relative;
+height: 200px;
+}
+#sign-out-button{
+  position:absolute;
+  right: 100px;
+  top: 100px;
+}
